@@ -1,0 +1,7 @@
+E:\Study\PROGRAMING\C# Exercises\1.Basics\Task01 - Hello and Name\Task1 - Hello and Name\bin\Debug\Task1 - Hello and Name.exe.config
+E:\Study\PROGRAMING\C# Exercises\1.Basics\Task01 - Hello and Name\Task1 - Hello and Name\bin\Debug\Task1 - Hello and Name.exe
+E:\Study\PROGRAMING\C# Exercises\1.Basics\Task01 - Hello and Name\Task1 - Hello and Name\bin\Debug\Task1 - Hello and Name.pdb
+E:\Study\PROGRAMING\C# Exercises\1.Basics\Task01 - Hello and Name\Task1 - Hello and Name\obj\Debug\Task01 - Hello and Name.csprojAssemblyReference.cache
+E:\Study\PROGRAMING\C# Exercises\1.Basics\Task01 - Hello and Name\Task1 - Hello and Name\obj\Debug\Task01 - Hello and Name.csproj.CoreCompileInputs.cache
+E:\Study\PROGRAMING\C# Exercises\1.Basics\Task01 - Hello and Name\Task1 - Hello and Name\obj\Debug\Task1 - Hello and Name.exe
+E:\Study\PROGRAMING\C# Exercises\1.Basics\Task01 - Hello and Name\Task1 - Hello and Name\obj\Debug\Task1 - Hello and Name.pdb
