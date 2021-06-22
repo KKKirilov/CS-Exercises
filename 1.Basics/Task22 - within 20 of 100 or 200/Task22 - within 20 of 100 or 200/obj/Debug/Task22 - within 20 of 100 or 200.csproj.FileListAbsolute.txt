@@ -1,0 +1,7 @@
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task22 - within 20 of 100 or 200\Task22 - within 20 of 100 or 200\bin\Debug\Task22 - within 20 of 100 or 200.exe.config
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task22 - within 20 of 100 or 200\Task22 - within 20 of 100 or 200\bin\Debug\Task22 - within 20 of 100 or 200.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task22 - within 20 of 100 or 200\Task22 - within 20 of 100 or 200\bin\Debug\Task22 - within 20 of 100 or 200.pdb
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task22 - within 20 of 100 or 200\Task22 - within 20 of 100 or 200\obj\Debug\Task22 - within 20 of 100 or 200.csprojResolveAssemblyReference.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task22 - within 20 of 100 or 200\Task22 - within 20 of 100 or 200\obj\Debug\Task22 - within 20 of 100 or 200.csproj.CoreCompileInputs.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task22 - within 20 of 100 or 200\Task22 - within 20 of 100 or 200\obj\Debug\Task22 - within 20 of 100 or 200.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task22 - within 20 of 100 or 200\Task22 - within 20 of 100 or 200\obj\Debug\Task22 - within 20 of 100 or 200.pdb

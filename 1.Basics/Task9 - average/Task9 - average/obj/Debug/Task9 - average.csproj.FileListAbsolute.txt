@@ -1,0 +1,7 @@
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task9 - average\Task9 - average\bin\Debug\Task9 - average.exe.config
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task9 - average\Task9 - average\bin\Debug\Task9 - average.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task9 - average\Task9 - average\bin\Debug\Task9 - average.pdb
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task9 - average\Task9 - average\obj\Debug\Task9 - average.csprojResolveAssemblyReference.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task9 - average\Task9 - average\obj\Debug\Task9 - average.csproj.CoreCompileInputs.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task9 - average\Task9 - average\obj\Debug\Task9 - average.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task9 - average\Task9 - average\obj\Debug\Task9 - average.pdb

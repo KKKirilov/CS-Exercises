@@ -1,0 +1,7 @@
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task13  - number rectangle\Task13  - number rectangle\bin\Debug\Task13  - number rectangle.exe.config
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task13  - number rectangle\Task13  - number rectangle\bin\Debug\Task13  - number rectangle.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task13  - number rectangle\Task13  - number rectangle\bin\Debug\Task13  - number rectangle.pdb
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task13  - number rectangle\Task13  - number rectangle\obj\Debug\Task13  - number rectangle.csprojResolveAssemblyReference.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task13  - number rectangle\Task13  - number rectangle\obj\Debug\Task13  - number rectangle.csproj.CoreCompileInputs.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task13  - number rectangle\Task13  - number rectangle\obj\Debug\Task13  - number rectangle.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task13  - number rectangle\Task13  - number rectangle\obj\Debug\Task13  - number rectangle.pdb

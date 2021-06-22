@@ -1,0 +1,7 @@
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task16 - char positions\Task16 - char positions\bin\Debug\Task16 - char positions.exe.config
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task16 - char positions\Task16 - char positions\bin\Debug\Task16 - char positions.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task16 - char positions\Task16 - char positions\bin\Debug\Task16 - char positions.pdb
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task16 - char positions\Task16 - char positions\obj\Debug\Task16 - char positions.csprojResolveAssemblyReference.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task16 - char positions\Task16 - char positions\obj\Debug\Task16 - char positions.csproj.CoreCompileInputs.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task16 - char positions\Task16 - char positions\obj\Debug\Task16 - char positions.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task16 - char positions\Task16 - char positions\obj\Debug\Task16 - char positions.pdb

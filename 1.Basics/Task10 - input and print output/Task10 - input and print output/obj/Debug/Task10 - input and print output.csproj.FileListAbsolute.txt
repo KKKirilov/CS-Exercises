@@ -1,0 +1,6 @@
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task10 - input and print output\Task10 - input and print output\obj\Debug\Task10 - input and print output.csproj.CoreCompileInputs.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task10 - input and print output\Task10 - input and print output\bin\Debug\Task10 - input and print output.exe.config
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task10 - input and print output\Task10 - input and print output\bin\Debug\Task10 - input and print output.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task10 - input and print output\Task10 - input and print output\bin\Debug\Task10 - input and print output.pdb
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task10 - input and print output\Task10 - input and print output\obj\Debug\Task10 - input and print output.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task10 - input and print output\Task10 - input and print output\obj\Debug\Task10 - input and print output.pdb

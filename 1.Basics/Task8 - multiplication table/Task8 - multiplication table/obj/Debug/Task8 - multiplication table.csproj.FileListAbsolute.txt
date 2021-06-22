@@ -1,0 +1,7 @@
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task8 - multiplication table\Task8 - multiplication table\obj\Debug\Task8 - multiplication table.csprojResolveAssemblyReference.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task8 - multiplication table\Task8 - multiplication table\obj\Debug\Task8 - multiplication table.csproj.CoreCompileInputs.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task8 - multiplication table\Task8 - multiplication table\bin\Debug\Task8 - multiplication table.exe.config
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task8 - multiplication table\Task8 - multiplication table\bin\Debug\Task8 - multiplication table.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task8 - multiplication table\Task8 - multiplication table\bin\Debug\Task8 - multiplication table.pdb
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task8 - multiplication table\Task8 - multiplication table\obj\Debug\Task8 - multiplication table.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task8 - multiplication table\Task8 - multiplication table\obj\Debug\Task8 - multiplication table.pdb

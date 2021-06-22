@@ -1,0 +1,7 @@
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task25 - odd numbers\Task25 - odd numbers\bin\Debug\Task25 - odd numbers.exe.config
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task25 - odd numbers\Task25 - odd numbers\bin\Debug\Task25 - odd numbers.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task25 - odd numbers\Task25 - odd numbers\bin\Debug\Task25 - odd numbers.pdb
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task25 - odd numbers\Task25 - odd numbers\obj\Debug\Task25 - odd numbers.csprojResolveAssemblyReference.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task25 - odd numbers\Task25 - odd numbers\obj\Debug\Task25 - odd numbers.csproj.CoreCompileInputs.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task25 - odd numbers\Task25 - odd numbers\obj\Debug\Task25 - odd numbers.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task25 - odd numbers\Task25 - odd numbers\obj\Debug\Task25 - odd numbers.pdb

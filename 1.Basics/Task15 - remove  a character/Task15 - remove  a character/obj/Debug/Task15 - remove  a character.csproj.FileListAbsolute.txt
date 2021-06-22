@@ -1,0 +1,14 @@
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task15 - remove  a character\Task15 - remove  a character\bin\Debug\Task15 - remove  a character.exe.config
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task15 - remove  a character\Task15 - remove  a character\bin\Debug\Task15 - remove  a character.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task15 - remove  a character\Task15 - remove  a character\bin\Debug\Task15 - remove  a character.pdb
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task15 - remove  a character\Task15 - remove  a character\obj\Debug\Task15 - remove  a character.csprojResolveAssemblyReference.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task15 - remove  a character\Task15 - remove  a character\obj\Debug\Task15 - remove  a character.csproj.CoreCompileInputs.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task15 - remove  a character\Task15 - remove  a character\obj\Debug\Task15 - remove  a character.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task15 - remove  a character\Task15 - remove  a character\obj\Debug\Task15 - remove  a character.pdb
+H:\USB\Programing\C#\C# Exercises\1.Basics\Task15 - remove  a character\Task15 - remove  a character\bin\Debug\Task15 - remove  a character.exe.config
+H:\USB\Programing\C#\C# Exercises\1.Basics\Task15 - remove  a character\Task15 - remove  a character\bin\Debug\Task15 - remove  a character.exe
+H:\USB\Programing\C#\C# Exercises\1.Basics\Task15 - remove  a character\Task15 - remove  a character\bin\Debug\Task15 - remove  a character.pdb
+H:\USB\Programing\C#\C# Exercises\1.Basics\Task15 - remove  a character\Task15 - remove  a character\obj\Debug\Task15 - remove  a character.csprojAssemblyReference.cache
+H:\USB\Programing\C#\C# Exercises\1.Basics\Task15 - remove  a character\Task15 - remove  a character\obj\Debug\Task15 - remove  a character.csproj.CoreCompileInputs.cache
+H:\USB\Programing\C#\C# Exercises\1.Basics\Task15 - remove  a character\Task15 - remove  a character\obj\Debug\Task15 - remove  a character.exe
+H:\USB\Programing\C#\C# Exercises\1.Basics\Task15 - remove  a character\Task15 - remove  a character\obj\Debug\Task15 - remove  a character.pdb

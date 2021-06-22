@@ -1,0 +1,7 @@
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task7 - output  of 4 functions\Task7 - output  of 4 functions\bin\Debug\Task7 - output  of 4 functions.exe.config
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task7 - output  of 4 functions\Task7 - output  of 4 functions\bin\Debug\Task7 - output  of 4 functions.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task7 - output  of 4 functions\Task7 - output  of 4 functions\bin\Debug\Task7 - output  of 4 functions.pdb
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task7 - output  of 4 functions\Task7 - output  of 4 functions\obj\Debug\Task7 - output  of 4 functions.csprojResolveAssemblyReference.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task7 - output  of 4 functions\Task7 - output  of 4 functions\obj\Debug\Task7 - output  of 4 functions.csproj.CoreCompileInputs.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task7 - output  of 4 functions\Task7 - output  of 4 functions\obj\Debug\Task7 - output  of 4 functions.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task7 - output  of 4 functions\Task7 - output  of 4 functions\obj\Debug\Task7 - output  of 4 functions.pdb

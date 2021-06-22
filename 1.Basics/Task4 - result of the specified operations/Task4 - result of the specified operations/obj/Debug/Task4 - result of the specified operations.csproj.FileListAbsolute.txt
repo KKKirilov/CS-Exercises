@@ -1,0 +1,7 @@
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task4 - result of the specified operations\Task4 - result of the specified operations\bin\Debug\Task4 - result of the specified operations.exe.config
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task4 - result of the specified operations\Task4 - result of the specified operations\bin\Debug\Task4 - result of the specified operations.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task4 - result of the specified operations\Task4 - result of the specified operations\bin\Debug\Task4 - result of the specified operations.pdb
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task4 - result of the specified operations\Task4 - result of the specified operations\obj\Debug\Task4 - result of the specified operations.csprojResolveAssemblyReference.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task4 - result of the specified operations\Task4 - result of the specified operations\obj\Debug\Task4 - result of the specified operations.csproj.CoreCompileInputs.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task4 - result of the specified operations\Task4 - result of the specified operations\obj\Debug\Task4 - result of the specified operations.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task4 - result of the specified operations\Task4 - result of the specified operations\obj\Debug\Task4 - result of the specified operations.pdb

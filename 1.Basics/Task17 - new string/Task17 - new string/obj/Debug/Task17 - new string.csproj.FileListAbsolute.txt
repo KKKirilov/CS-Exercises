@@ -1,0 +1,7 @@
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task17 - new string\Task17 - new string\bin\Debug\Task17 - new string.exe.config
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task17 - new string\Task17 - new string\bin\Debug\Task17 - new string.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task17 - new string\Task17 - new string\bin\Debug\Task17 - new string.pdb
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task17 - new string\Task17 - new string\obj\Debug\Task17 - new string.csprojResolveAssemblyReference.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task17 - new string\Task17 - new string\obj\Debug\Task17 - new string.csproj.CoreCompileInputs.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task17 - new string\Task17 - new string\obj\Debug\Task17 - new string.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task17 - new string\Task17 - new string\obj\Debug\Task17 - new string.pdb

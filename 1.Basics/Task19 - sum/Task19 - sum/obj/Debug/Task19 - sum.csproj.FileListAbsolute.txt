@@ -1,0 +1,7 @@
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task19 - sum\Task19 - sum\bin\Debug\Task19 - sum.exe.config
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task19 - sum\Task19 - sum\bin\Debug\Task19 - sum.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task19 - sum\Task19 - sum\bin\Debug\Task19 - sum.pdb
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task19 - sum\Task19 - sum\obj\Debug\Task19 - sum.csprojResolveAssemblyReference.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task19 - sum\Task19 - sum\obj\Debug\Task19 - sum.csproj.CoreCompileInputs.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task19 - sum\Task19 - sum\obj\Debug\Task19 - sum.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task19 - sum\Task19 - sum\obj\Debug\Task19 - sum.pdb

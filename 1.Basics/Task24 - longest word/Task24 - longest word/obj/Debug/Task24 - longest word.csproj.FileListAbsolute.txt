@@ -1,0 +1,7 @@
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task24 - longest word\Task24 - longest word\bin\Debug\Task24 - longest word.exe.config
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task24 - longest word\Task24 - longest word\bin\Debug\Task24 - longest word.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task24 - longest word\Task24 - longest word\bin\Debug\Task24 - longest word.pdb
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task24 - longest word\Task24 - longest word\obj\Debug\Task24 - longest word.csprojResolveAssemblyReference.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task24 - longest word\Task24 - longest word\obj\Debug\Task24 - longest word.csproj.CoreCompileInputs.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task24 - longest word\Task24 - longest word\obj\Debug\Task24 - longest word.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task24 - longest word\Task24 - longest word\obj\Debug\Task24 - longest word.pdb

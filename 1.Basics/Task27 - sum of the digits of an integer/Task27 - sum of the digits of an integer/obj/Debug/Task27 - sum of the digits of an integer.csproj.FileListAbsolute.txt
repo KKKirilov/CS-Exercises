@@ -1,0 +1,7 @@
+H:\Programing\C# Projects\C# Exercises\1.Basics\Task27 - sum of the digits of an integer\Task27 - sum of the digits of an integer\bin\Debug\Task27 - sum of the digits of an integer.exe.config
+H:\Programing\C# Projects\C# Exercises\1.Basics\Task27 - sum of the digits of an integer\Task27 - sum of the digits of an integer\bin\Debug\Task27 - sum of the digits of an integer.exe
+H:\Programing\C# Projects\C# Exercises\1.Basics\Task27 - sum of the digits of an integer\Task27 - sum of the digits of an integer\bin\Debug\Task27 - sum of the digits of an integer.pdb
+H:\Programing\C# Projects\C# Exercises\1.Basics\Task27 - sum of the digits of an integer\Task27 - sum of the digits of an integer\obj\Debug\Task27 - sum of the digits of an integer.csprojResolveAssemblyReference.cache
+H:\Programing\C# Projects\C# Exercises\1.Basics\Task27 - sum of the digits of an integer\Task27 - sum of the digits of an integer\obj\Debug\Task27 - sum of the digits of an integer.csproj.CoreCompileInputs.cache
+H:\Programing\C# Projects\C# Exercises\1.Basics\Task27 - sum of the digits of an integer\Task27 - sum of the digits of an integer\obj\Debug\Task27 - sum of the digits of an integer.exe
+H:\Programing\C# Projects\C# Exercises\1.Basics\Task27 - sum of the digits of an integer\Task27 - sum of the digits of an integer\obj\Debug\Task27 - sum of the digits of an integer.pdb

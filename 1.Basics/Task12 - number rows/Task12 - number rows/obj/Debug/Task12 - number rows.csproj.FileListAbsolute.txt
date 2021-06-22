@@ -1,0 +1,14 @@
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task12 - number rows\Task12 - number rows\bin\Debug\Task12 - number rows.exe.config
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task12 - number rows\Task12 - number rows\bin\Debug\Task12 - number rows.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task12 - number rows\Task12 - number rows\bin\Debug\Task12 - number rows.pdb
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task12 - number rows\Task12 - number rows\obj\Debug\Task12 - number rows.csprojResolveAssemblyReference.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task12 - number rows\Task12 - number rows\obj\Debug\Task12 - number rows.csproj.CoreCompileInputs.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task12 - number rows\Task12 - number rows\obj\Debug\Task12 - number rows.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task12 - number rows\Task12 - number rows\obj\Debug\Task12 - number rows.pdb
+H:\USB\Programing\C#\C# Exercises\1.Basics\Task12 - number rows\Task12 - number rows\bin\Debug\Task12 - number rows.exe.config
+H:\USB\Programing\C#\C# Exercises\1.Basics\Task12 - number rows\Task12 - number rows\bin\Debug\Task12 - number rows.exe
+H:\USB\Programing\C#\C# Exercises\1.Basics\Task12 - number rows\Task12 - number rows\bin\Debug\Task12 - number rows.pdb
+H:\USB\Programing\C#\C# Exercises\1.Basics\Task12 - number rows\Task12 - number rows\obj\Debug\Task12 - number rows.csprojAssemblyReference.cache
+H:\USB\Programing\C#\C# Exercises\1.Basics\Task12 - number rows\Task12 - number rows\obj\Debug\Task12 - number rows.csproj.CoreCompileInputs.cache
+H:\USB\Programing\C#\C# Exercises\1.Basics\Task12 - number rows\Task12 - number rows\obj\Debug\Task12 - number rows.exe
+H:\USB\Programing\C#\C# Exercises\1.Basics\Task12 - number rows\Task12 - number rows\obj\Debug\Task12 - number rows.pdb

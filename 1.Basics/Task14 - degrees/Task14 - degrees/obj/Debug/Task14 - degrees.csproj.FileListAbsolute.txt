@@ -1,0 +1,7 @@
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task14 - degrees\Task14 - degrees\bin\Debug\Task14 - degrees.exe.config
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task14 - degrees\Task14 - degrees\bin\Debug\Task14 - degrees.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task14 - degrees\Task14 - degrees\bin\Debug\Task14 - degrees.pdb
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task14 - degrees\Task14 - degrees\obj\Debug\Task14 - degrees.csprojResolveAssemblyReference.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task14 - degrees\Task14 - degrees\obj\Debug\Task14 - degrees.csproj.CoreCompileInputs.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task14 - degrees\Task14 - degrees\obj\Debug\Task14 - degrees.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task14 - degrees\Task14 - degrees\obj\Debug\Task14 - degrees.pdb

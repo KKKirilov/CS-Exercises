@@ -1,0 +1,14 @@
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task26 - sum of the first 500 prime\Task26 - sum of the first 500 prime\bin\Debug\Task26 - sum of the first 500 prime.exe.config
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task26 - sum of the first 500 prime\Task26 - sum of the first 500 prime\bin\Debug\Task26 - sum of the first 500 prime.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task26 - sum of the first 500 prime\Task26 - sum of the first 500 prime\bin\Debug\Task26 - sum of the first 500 prime.pdb
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task26 - sum of the first 500 prime\Task26 - sum of the first 500 prime\obj\Debug\Task26 - sum of the first 500 prime.csprojResolveAssemblyReference.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task26 - sum of the first 500 prime\Task26 - sum of the first 500 prime\obj\Debug\Task26 - sum of the first 500 prime.csproj.CoreCompileInputs.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task26 - sum of the first 500 prime\Task26 - sum of the first 500 prime\obj\Debug\Task26 - sum of the first 500 prime.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task26 - sum of the first 500 prime\Task26 - sum of the first 500 prime\obj\Debug\Task26 - sum of the first 500 prime.pdb
+H:\USB\Programing\C#\C# Exercises\1.Basics\Task26 - sum of the first 500 prime\Task26 - sum of the first 500 prime\bin\Debug\Task26 - sum of the first 500 prime.exe.config
+H:\USB\Programing\C#\C# Exercises\1.Basics\Task26 - sum of the first 500 prime\Task26 - sum of the first 500 prime\bin\Debug\Task26 - sum of the first 500 prime.exe
+H:\USB\Programing\C#\C# Exercises\1.Basics\Task26 - sum of the first 500 prime\Task26 - sum of the first 500 prime\bin\Debug\Task26 - sum of the first 500 prime.pdb
+H:\USB\Programing\C#\C# Exercises\1.Basics\Task26 - sum of the first 500 prime\Task26 - sum of the first 500 prime\obj\Debug\Task26 - sum of the first 500 prime.csprojAssemblyReference.cache
+H:\USB\Programing\C#\C# Exercises\1.Basics\Task26 - sum of the first 500 prime\Task26 - sum of the first 500 prime\obj\Debug\Task26 - sum of the first 500 prime.csproj.CoreCompileInputs.cache
+H:\USB\Programing\C#\C# Exercises\1.Basics\Task26 - sum of the first 500 prime\Task26 - sum of the first 500 prime\obj\Debug\Task26 - sum of the first 500 prime.exe
+H:\USB\Programing\C#\C# Exercises\1.Basics\Task26 - sum of the first 500 prime\Task26 - sum of the first 500 prime\obj\Debug\Task26 - sum of the first 500 prime.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task15 - remove  a character", "Task15 - remove  a character\Task15 - remove  a character.csproj", "{946C03BC-4D44-464F-98BA-B33B169D3D83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{946C03BC-4D44-464F-98BA-B33B169D3D83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{946C03BC-4D44-464F-98BA-B33B169D3D83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{946C03BC-4D44-464F-98BA-B33B169D3D83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{946C03BC-4D44-464F-98BA-B33B169D3D83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {564F189F-FB1E-48AA-BB7D-1F01F7C26B36}
+	EndGlobalSection
+EndGlobal

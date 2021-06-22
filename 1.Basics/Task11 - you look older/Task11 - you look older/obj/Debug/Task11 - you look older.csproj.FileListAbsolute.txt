@@ -1,0 +1,7 @@
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task11 - you look older\Task11 - you look older\bin\Debug\Task11 - you look older.exe.config
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task11 - you look older\Task11 - you look older\bin\Debug\Task11 - you look older.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task11 - you look older\Task11 - you look older\bin\Debug\Task11 - you look older.pdb
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task11 - you look older\Task11 - you look older\obj\Debug\Task11 - you look older.csprojResolveAssemblyReference.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task11 - you look older\Task11 - you look older\obj\Debug\Task11 - you look older.csproj.CoreCompileInputs.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task11 - you look older\Task11 - you look older\obj\Debug\Task11 - you look older.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task11 - you look older\Task11 - you look older\obj\Debug\Task11 - you look older.pdb

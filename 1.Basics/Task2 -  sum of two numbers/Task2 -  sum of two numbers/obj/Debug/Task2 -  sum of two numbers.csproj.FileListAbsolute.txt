@@ -1,0 +1,14 @@
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task2 -  sum of two numbers\Task2 -  sum of two numbers\bin\Debug\Task2 -  sum of two numbers.exe.config
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task2 -  sum of two numbers\Task2 -  sum of two numbers\bin\Debug\Task2 -  sum of two numbers.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task2 -  sum of two numbers\Task2 -  sum of two numbers\bin\Debug\Task2 -  sum of two numbers.pdb
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task2 -  sum of two numbers\Task2 -  sum of two numbers\obj\Debug\Task2 -  sum of two numbers.csprojResolveAssemblyReference.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task2 -  sum of two numbers\Task2 -  sum of two numbers\obj\Debug\Task2 -  sum of two numbers.csproj.CoreCompileInputs.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task2 -  sum of two numbers\Task2 -  sum of two numbers\obj\Debug\Task2 -  sum of two numbers.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task2 -  sum of two numbers\Task2 -  sum of two numbers\obj\Debug\Task2 -  sum of two numbers.pdb
+E:\Study\PROGRAMING\C# Exercises\1.Basics\Task2 -  sum of two numbers\Task2 -  sum of two numbers\bin\Debug\Task2 -  sum of two numbers.exe.config
+E:\Study\PROGRAMING\C# Exercises\1.Basics\Task2 -  sum of two numbers\Task2 -  sum of two numbers\bin\Debug\Task2 -  sum of two numbers.exe
+E:\Study\PROGRAMING\C# Exercises\1.Basics\Task2 -  sum of two numbers\Task2 -  sum of two numbers\bin\Debug\Task2 -  sum of two numbers.pdb
+E:\Study\PROGRAMING\C# Exercises\1.Basics\Task2 -  sum of two numbers\Task2 -  sum of two numbers\obj\Debug\Task2 -  sum of two numbers.csprojAssemblyReference.cache
+E:\Study\PROGRAMING\C# Exercises\1.Basics\Task2 -  sum of two numbers\Task2 -  sum of two numbers\obj\Debug\Task2 -  sum of two numbers.csproj.CoreCompileInputs.cache
+E:\Study\PROGRAMING\C# Exercises\1.Basics\Task2 -  sum of two numbers\Task2 -  sum of two numbers\obj\Debug\Task2 -  sum of two numbers.exe
+E:\Study\PROGRAMING\C# Exercises\1.Basics\Task2 -  sum of two numbers\Task2 -  sum of two numbers\obj\Debug\Task2 -  sum of two numbers.pdb

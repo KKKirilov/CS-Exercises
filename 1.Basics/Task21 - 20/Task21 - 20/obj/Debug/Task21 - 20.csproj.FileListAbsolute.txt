@@ -1,0 +1,7 @@
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task21 - 20\Task21 - 20\bin\Debug\Task21 - 20.exe.config
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task21 - 20\Task21 - 20\bin\Debug\Task21 - 20.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task21 - 20\Task21 - 20\bin\Debug\Task21 - 20.pdb
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task21 - 20\Task21 - 20\obj\Debug\Task21 - 20.csprojResolveAssemblyReference.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task21 - 20\Task21 - 20\obj\Debug\Task21 - 20.csproj.CoreCompileInputs.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task21 - 20\Task21 - 20\obj\Debug\Task21 - 20.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task21 - 20\Task21 - 20\obj\Debug\Task21 - 20.pdb

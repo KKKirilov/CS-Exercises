@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task23 - lowercase", "Task23 - lowercase\Task23 - lowercase.csproj", "{5D5472F9-90B8-49D2-86B0-B09A200C584C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D5472F9-90B8-49D2-86B0-B09A200C584C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D5472F9-90B8-49D2-86B0-B09A200C584C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D5472F9-90B8-49D2-86B0-B09A200C584C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D5472F9-90B8-49D2-86B0-B09A200C584C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDB61622-17D3-4277-9E30-4CBD1F01AB2C}
+	EndGlobalSection
+EndGlobal

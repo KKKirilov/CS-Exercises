@@ -1,0 +1,7 @@
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task18 - true or false\Task18 - true or false\bin\Debug\Task18 - true or false.exe.config
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task18 - true or false\Task18 - true or false\bin\Debug\Task18 - true or false.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task18 - true or false\Task18 - true or false\bin\Debug\Task18 - true or false.pdb
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task18 - true or false\Task18 - true or false\obj\Debug\Task18 - true or false.csprojResolveAssemblyReference.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task18 - true or false\Task18 - true or false\obj\Debug\Task18 - true or false.csproj.CoreCompileInputs.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task18 - true or false\Task18 - true or false\obj\Debug\Task18 - true or false.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task18 - true or false\Task18 - true or false\obj\Debug\Task18 - true or false.pdb

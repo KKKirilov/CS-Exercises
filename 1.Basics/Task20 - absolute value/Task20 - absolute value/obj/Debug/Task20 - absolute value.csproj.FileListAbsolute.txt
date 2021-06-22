@@ -1,0 +1,7 @@
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task20 - absolute value\Task20 - absolute value\bin\Debug\Task20 - absolute value.exe.config
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task20 - absolute value\Task20 - absolute value\bin\Debug\Task20 - absolute value.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task20 - absolute value\Task20 - absolute value\bin\Debug\Task20 - absolute value.pdb
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task20 - absolute value\Task20 - absolute value\obj\Debug\Task20 - absolute value.csprojResolveAssemblyReference.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task20 - absolute value\Task20 - absolute value\obj\Debug\Task20 - absolute value.csproj.CoreCompileInputs.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task20 - absolute value\Task20 - absolute value\obj\Debug\Task20 - absolute value.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task20 - absolute value\Task20 - absolute value\obj\Debug\Task20 - absolute value.pdb

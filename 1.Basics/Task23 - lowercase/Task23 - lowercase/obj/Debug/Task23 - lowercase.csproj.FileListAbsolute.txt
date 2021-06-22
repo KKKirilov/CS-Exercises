@@ -1,0 +1,7 @@
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task23 - lowercase\Task23 - lowercase\bin\Debug\Task23 - lowercase.exe.config
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task23 - lowercase\Task23 - lowercase\bin\Debug\Task23 - lowercase.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task23 - lowercase\Task23 - lowercase\bin\Debug\Task23 - lowercase.pdb
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task23 - lowercase\Task23 - lowercase\obj\Debug\Task23 - lowercase.csprojResolveAssemblyReference.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task23 - lowercase\Task23 - lowercase\obj\Debug\Task23 - lowercase.csproj.CoreCompileInputs.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task23 - lowercase\Task23 - lowercase\obj\Debug\Task23 - lowercase.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task23 - lowercase\Task23 - lowercase\obj\Debug\Task23 - lowercase.pdb

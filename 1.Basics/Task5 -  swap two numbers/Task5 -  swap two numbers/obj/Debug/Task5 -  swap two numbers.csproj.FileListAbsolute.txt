@@ -1,0 +1,7 @@
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task5 -  swap two numbers\Task5 -  swap two numbers\bin\Debug\Task5 -  swap two numbers.exe.config
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task5 -  swap two numbers\Task5 -  swap two numbers\bin\Debug\Task5 -  swap two numbers.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task5 -  swap two numbers\Task5 -  swap two numbers\bin\Debug\Task5 -  swap two numbers.pdb
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task5 -  swap two numbers\Task5 -  swap two numbers\obj\Debug\Task5 -  swap two numbers.csprojResolveAssemblyReference.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task5 -  swap two numbers\Task5 -  swap two numbers\obj\Debug\Task5 -  swap two numbers.csproj.CoreCompileInputs.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task5 -  swap two numbers\Task5 -  swap two numbers\obj\Debug\Task5 -  swap two numbers.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task5 -  swap two numbers\Task5 -  swap two numbers\obj\Debug\Task5 -  swap two numbers.pdb

@@ -1,0 +1,7 @@
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task6 - multiplication of three numbers\Task6 - multiplication of three numbers\bin\Debug\Task6 - multiplication of three numbers.exe.config
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task6 - multiplication of three numbers\Task6 - multiplication of three numbers\bin\Debug\Task6 - multiplication of three numbers.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task6 - multiplication of three numbers\Task6 - multiplication of three numbers\bin\Debug\Task6 - multiplication of three numbers.pdb
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task6 - multiplication of three numbers\Task6 - multiplication of three numbers\obj\Debug\Task6 - multiplication of three numbers.csprojResolveAssemblyReference.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task6 - multiplication of three numbers\Task6 - multiplication of three numbers\obj\Debug\Task6 - multiplication of three numbers.csproj.CoreCompileInputs.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task6 - multiplication of three numbers\Task6 - multiplication of three numbers\obj\Debug\Task6 - multiplication of three numbers.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task6 - multiplication of three numbers\Task6 - multiplication of three numbers\obj\Debug\Task6 - multiplication of three numbers.pdb

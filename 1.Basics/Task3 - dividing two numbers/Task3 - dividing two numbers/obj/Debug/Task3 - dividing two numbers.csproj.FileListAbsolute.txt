@@ -1,0 +1,7 @@
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task3 - dividing two numbers\Task3 - dividing two numbers\bin\Debug\Task3 - dividing two numbers.exe.config
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task3 - dividing two numbers\Task3 - dividing two numbers\bin\Debug\Task3 - dividing two numbers.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task3 - dividing two numbers\Task3 - dividing two numbers\bin\Debug\Task3 - dividing two numbers.pdb
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task3 - dividing two numbers\Task3 - dividing two numbers\obj\Debug\Task3 - dividing two numbers.csprojResolveAssemblyReference.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task3 - dividing two numbers\Task3 - dividing two numbers\obj\Debug\Task3 - dividing two numbers.csproj.CoreCompileInputs.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task3 - dividing two numbers\Task3 - dividing two numbers\obj\Debug\Task3 - dividing two numbers.exe
+I:\Programing\C# Projects\C# Exercises\1.Basics\Task3 - dividing two numbers\Task3 - dividing two numbers\obj\Debug\Task3 - dividing two numbers.pdb
